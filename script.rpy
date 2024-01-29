@@ -1,4 +1,4 @@
-﻿# The script of the game goes in this file.
+# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
@@ -29,5 +29,6 @@ label start:
     e "Once you add a story, pictures, and music, you can release it to the world!"
 
     # This ends the game.
+    #THIS IS A TEST TO MAKE SURE THIS FILE ON GITHUB IS UPDATED PROPERLY
 
     return
